@@ -1,6 +1,13 @@
 # 💫 About Me:
-I like reading<br>I like gourmet cuisine<br>I am a programmer<br>I love dogs<br>
 
+👩‍🎓I am currently studying Programming Technique.
+🏢I am currently working in the PAMI Workshop.
+👩‍💻I am looking to collaborate in software development teams to create applications, websites, together to design,
+code, test and maintain the software.
+📚I am looking for help with resources to learn new programming languages,
+frameworks and technologies.
+👉Ask me about programming codes.
+🐩my hobby is walking my pet
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bety6225) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Belu470) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beartweb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beatriz-ramirez-carrizo-48416144) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@beartweb) 
