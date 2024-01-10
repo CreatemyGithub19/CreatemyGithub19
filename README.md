@@ -2,7 +2,6 @@
 
 👩‍🎓 studying the last year of the Programming Technique
 
-👩‍🎓I am currently studying Programming Technique.
 
 🏢I am currently working in the PAMI Workshop.
 
