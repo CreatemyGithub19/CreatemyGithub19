@@ -2,8 +2,8 @@
 
 👩‍🎓 studying the last year of the Programming Technique
 
+👩‍💻 I work independently, I have a home office
 
-🏢I am currently working in the PAMI Workshop.
 
 👩‍💻I am looking to collaborate in software development teams to create applications, websites, together to design,
 code, test and maintain the software.
